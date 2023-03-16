@@ -5,3 +5,5 @@
 - <a href="https://app.mural.co/template/123407e6-25ed-4492-a69a-c8db259d18f7/6c42e3d3-8ea5-473c-a4ab-badb741e5698" target="_blank">Open Studio Template</a>
 <h3>Figma</h3>
 - <a href="https://www.figma.com/file/nue5qhIccNSWlt7ZYJU6fh/Product-Development-Roadmap-Template-(Copy)-(Copy)?node-id=0%3A1&t=l6C81sfVm5XBwaz3-1" target="_blank">Product Development Roadmap Template</a>
+<br>
+- <a href="https://www.figma.com/file/JtH5busgBHLCPaSDiINsvf/Design-System?node-id=14449%3A133773&t=XpCqx1hhyaE77JLN-1" target="_blank">Design System Template</a>
