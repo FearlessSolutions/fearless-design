@@ -1,6 +1,3 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2708
-\cocoatextscaling0\cocoaplatform0{\fonttbl}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-}
+<h2>Samples Links</h2>
+<h5>Figma</h5>
+- <a href="https://www.figma.com/file/JtH5busgBHLCPaSDiINsvf/Design-System?node-id=14449%3A133773&t=XpCqx1hhyaE77JLN-1" target="_blank">Design System for CMS Connect</a> 
