@@ -12,8 +12,13 @@
 <br>
 - <a href="https://www.nngroup.com/articles/workshop-activities/" target="_blank">Foundational UX Workshop Activities</a>
 
-<h4>General</h4>
+<h4>Beautiful Design Systems</h4>
 - <a href="https://spectrum.adobe.com/" target="_blank">Adobe's Design System</a>
+<br>
+- <a href="https://m3.material.io/" target="_blank">Google's Design System</a>
+<br>
+- <a href="https://atlassian.design/" target="_blank">Atlassian's Design System</a>
+
 
 <h4>Accessibility</h4>
 - <a href="https://accessibility.digital.gov/ux/inclusive-design/" target="_blank">Gov Accessibility Guidelines</a>
