@@ -7,7 +7,7 @@
 - <a href="https://www.nngroup.com/articles/formative-vs-summative-evaluations/" target="_blank">Formative vs. Summative Evaluations</a>
 
 
-<h3>Workshopping</h3>
+<h3>Workshops</h3>
 - <a href="https://www.nngroup.com/articles/5-ux-workshops/" target="_blank">5 UX Workshops and When to Use Them: A Cheat Sheet</a>
 <br>
 - <a href="https://www.nngroup.com/articles/workshop-activities/" target="_blank">Foundational UX Workshop Activities</a>
