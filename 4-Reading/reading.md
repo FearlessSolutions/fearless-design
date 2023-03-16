@@ -1,6 +1,10 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2708
-\cocoatextscaling0\cocoaplatform0{\fonttbl}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-}
+<h1>Reading Links</h1>
+<h3>Nielsen Norman Group</h3>
+- <a href="https://www.nngroup.com/articles/ten-usability-heuristics/" target="_blank"> 10 Usability Heuristics for User Interface Design</a> 
+<br>
+- <a href="https://www.nngroup.com/articles/5-ux-workshops/" target="_blank">5 UX Workshops and When to Use Them: A Cheat Sheet</a>
+
+<h3>Title</h3>
+- <a href="link" target="_blank">Name</a>
+<br>
+- <a href="link" target="_blank">Name</a>
