@@ -20,11 +20,9 @@
 - <a href="https://atlassian.design/" target="_blank">Atlassian's Design System</a>
 
 
-<h4>Accessibility</h4>
-- <a href="https://accessibility.digital.gov/ux/inclusive-design/" target="_blank">Gov Accessibility Guidelines</a>
-<br>
-
 <h4>Government Design Guidelines</h4>
 - <a href="https://digital.gov/" target="_blank">Digital.gov</a>
 <br>
 - <a href="https://design.cms.gov/?theme=core" target="_blank">CMS Design System</a>
+<br>
+- <a href="https://accessibility.digital.gov/ux/inclusive-design/" target="_blank">Gov Accessibility Guidelines</a>
