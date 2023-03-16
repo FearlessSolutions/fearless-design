@@ -1,5 +1,5 @@
 # fearless-design
-A place for sharing design resources and source files. Please see linked resources below.
+A place for sharing design resources and source files.
 
 <h2>Template Links</h2>
 <h5>Mural</h5>
