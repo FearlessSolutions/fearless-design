@@ -18,7 +18,6 @@
 <br>
 
 <h4>UX Management</h4>
-<br>
 - <a href="https://www.nngroup.com/articles/ux-maturity-model/" target="_blank">UX Maturity Model</a>
 <br>
 
