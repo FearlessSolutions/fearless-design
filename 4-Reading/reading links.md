@@ -5,7 +5,7 @@
 - <a href="https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/" target="_blank">How to Rate the Severity of Usability Problems</a>
 <br>
 - <a href="https://www.nngroup.com/articles/formative-vs-summative-evaluations/" target="_blank">Formative vs. Summative Evaluations</a>
-<br>
+
 
 <h4>Workshops</h4>
 - <a href="https://www.nngroup.com/articles/5-ux-workshops/" target="_blank">5 UX Workshops and When to Use Them: A Cheat Sheet</a>
@@ -13,7 +13,16 @@
 - <a href="https://www.nngroup.com/articles/workshop-activities/" target="_blank">Foundational UX Workshop Activities</a>
 <br>
 
-<h4>Beautiful Design Systems</h4>
+<h4>Mapping</h4>
+- <a href="https://www.nngroup.com/articles/service-blueprints-definition/" target="_blank">Service Blueprints</a>
+<br>
+
+<h4>UX Management</h4>
+<br>
+- <a href="https://www.nngroup.com/articles/ux-maturity-model/" target="_blank">UX Maturity Model</a>
+<br>
+
+<h4>Design System Examples</h4>
 - <a href="https://spectrum.adobe.com/" target="_blank">Adobe's Design System</a>
 <br>
 - <a href="https://m3.material.io/" target="_blank">Google's Design System</a>
