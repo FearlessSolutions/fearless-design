@@ -1,2 +1,2 @@
 <h2>List helpful links below.</h2>
-<p>There currently are none, lol!</p>
+<p>There currently are none, lol! Add them here if you have something to contribute.</p>
