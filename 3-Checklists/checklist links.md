@@ -1,2 +1,2 @@
 <h2>List helpful links below.</h2>
-<p>There currently are none. Please add them here if you have something to contribute.</p>
+[<p>There currently are none. Please add them here if you have something to contribute.</p>](https://accessibility.18f.gov/tools/)
