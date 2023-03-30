@@ -1,7 +1,7 @@
-<h1>Read Me!</h1>
+<h1>About This Repo</h1>
 <p>fearless-design is a place for sharing design resources and source files. Please read the information below before you begin navigating the repo.</p>
 
-<h2>Before you begin!</h2>
+<h2>Before you begin</h2>
 <p>In order to maintain Fearless branding desktop, please download our company typefaces, or <a href="https://fonts.google.com/specimen/Montserrat+Alternates">Monsterrat Alternatives</a> and <a href="https://fonts.google.com/specimen/Montserrat">Monsterrat</a> here. Or, you can just open them in Google docs! </p>
 
 <h2>Can't find what you need or want to make edits?</h2>
