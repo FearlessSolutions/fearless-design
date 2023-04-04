@@ -1,26 +1,39 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Event Attendance Calculator</title>
-	<link rel="stylesheet" type="text/css" href="style.css">
+	<title>Interview Schedule</title>
 </head>
 <body>
-	<div class="container">
-		<h1>Event Attendance Calculator</h1>
-		<form>
-			<label for="adults">Number of Adults:</label>
-			<input type="number" id="adults" name="adults">
-			<br>
-			<label for="children">Number of Children:</label>
-			<input type="number" id="children" name="children">
-			<br>
-			<button type="button" id="calculate-btn">Calculate Total Attendees</button>
-			<br>
-			<label for="total">Total Attendees:</label>
-			<input type="number" id="total" name="total" readonly>
-		</form>
-	</div>
-
-	<script src="script.js"></script>
+	<h1>Interview Schedule</h1>
+	<table>
+		<thead>
+			<tr>
+				<th>Name</th>
+				<th>Email</th>
+				<th>Date of Interview</th>
+				<th>Number of Confirmed</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>John Doe</td>
+				<td>john.doe@example.com</td>
+				<td>April 10, 2023</td>
+				<td>2</td>
+			</tr>
+			<tr>
+				<td>Jane Smith</td>
+				<td>jane.smith@example.com</td>
+				<td>April 12, 2023</td>
+				<td>1</td>
+			</tr>
+			<tr>
+				<td>Bob Johnson</td>
+				<td>bob.johnson@example.com</td>
+				<td>April 15, 2023</td>
+				<td>3</td>
+			</tr>
+		</tbody>
+	</table>
 </body>
 </html>
