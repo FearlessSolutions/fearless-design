@@ -37,11 +37,11 @@ In this example (viewable in editor) the total number of participants is manuall
 <h2> In Order to Create a Stylized Table</h2>
 you'll need to write it up in HTML
 
-<table style="background-color: #e6ccff">
+<table style="background-color: #e6ccff;">
   <thead>
     <tr>
-      <th style="background-color: #b366ff">Column 1 Header</th>
-      <th style="background-color: #b366ff">Column 2 Header</th>
+      <th style="background-color: #b366ff;">Column 1 Header</th>
+      <th style="background-color: #b366ff;">Column 2 Header</th>
     </tr>
   </thead>
   <tbody>
