@@ -34,10 +34,7 @@ For example, you can use a tool like Google Sheets or Excel to calculate the res
 In this example (viewable in editor) the total number of participants is manually calculated and displayed in the last row of the table. You can update this number as needed when new participants sign up for the event.
 
 
-<h2> Styling Does not Work in Github Markdown</h2>
-Even if you write it up in HTML
-
-
+<h2> Styling and Functionality Does not Work in Github Markdown</h2>
 
 <table style="background-color: #e6ccff;">
   <thead>
@@ -57,4 +54,3 @@ Even if you write it up in HTML
     </tr>
   </tbody>
 </table>
-
