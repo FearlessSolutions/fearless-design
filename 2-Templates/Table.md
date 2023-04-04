@@ -32,3 +32,27 @@ For example, you can use a tool like Google Sheets or Excel to calculate the res
 
 
 In this example (viewable in editor) the total number of participants is manually calculated and displayed in the last row of the table. You can update this number as needed when new participants sign up for the event.
+
+
+<h2> In Order to Create a Stylized Table</h2>
+you'll need to write it up in HTML
+
+<table style="background-color: #e6ccff">
+  <thead>
+    <tr>
+      <th style="background-color: #b366ff">Column 1 Header</th>
+      <th style="background-color: #b366ff">Column 2 Header</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Row 1 Column 1</td>
+      <td>Row 1 Column 2</td>
+    </tr>
+    <tr>
+      <td>Row 2 Column 1</td>
+      <td>Row 2 Column 2</td>
+    </tr>
+  </tbody>
+</table>
+
