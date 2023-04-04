@@ -37,7 +37,7 @@ The `samples` directory contains sample code, documents, and other materials tha
 
 ## Contributing
 
-If you would like to contribute to this repository, please follow our [contributing guidelines](contributing.md). We welcome contributions of all kinds, including bug reports, feature requests, documentation improvements, and content contributions.
+If you would like to contribute to this repository, please follow our [contributing guidelines](contributing.md). We welcome contributions of all kinds, including bug reports, feature requests, documentation improvements, and markdown contributions.
 
 ## License
 
