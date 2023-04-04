@@ -11,7 +11,10 @@
 
 
 <h2> Here is an example of a table where participants are added </h2>
+
+
 GitHub Markdown doesn't support formulas or calculations within tables.
+
 
 
 However, there is a workaround that you can use to display the calculated results in the table. You can use a script or tool to calculate the results, and then include the output of the script or tool in the table.
