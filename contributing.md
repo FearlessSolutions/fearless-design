@@ -1,2 +1,4 @@
-# Can't find what you need or want to make edits?
+# Can't find what you need, or want to make edits?
 Some of the design resources come in the form of links. If you aren't finding what you need in the source files, check the "links" file within each folder. If you still can't find what you need, or you have something to contribute, please contact Rachel Petrucci, or place the file into the repo and create a pull request with details on the documentation and edits you have provided.
+
+[Back to ReadMe](README.md)
