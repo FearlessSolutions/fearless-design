@@ -25,7 +25,7 @@
 - [ ] Test the website or application with assistive technology to ensure accessibility.
 
 
-<h2>WCAG AAA Checklist<h2>
+<h2>WCAG AAA Checklist</h2>
 1. Provide text alternatives for all non-text content.
 2. Ensure that all content is perceivable, operable, and understandable for users with disabilities.
 3. Use a color contrast ratio of at least 7:1 for normal text and 4.5:1 for large text.
