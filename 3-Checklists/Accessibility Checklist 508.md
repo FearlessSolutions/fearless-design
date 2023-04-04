@@ -1,5 +1,6 @@
 <h2>508 Accessibility Checklist</h2>
 Edit list in markdown in order to add a "check" next to your task that has been completed. 
+
 - [x] Here is an example of a completed task.
 
 - [ ] Provide text alternatives for all non-text content.
