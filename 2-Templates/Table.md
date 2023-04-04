@@ -38,6 +38,7 @@ In this example (viewable in editor) the total number of participants is manuall
 Even if you write it up in HTML
 
 
+
 <table style="background-color: #e6ccff;">
   <thead>
     <tr>
