@@ -10,7 +10,7 @@
 | Row 6, Column 1 | Row 6, Column 2 | Row 6, Column 3 |
 
 
-<h2> Here is an example of a table where participants are added </h2>
+<h2> Tables cannot automatically Add or Subtract for you in Github Markdown </h2>
 
 
 GitHub Markdown doesn't support formulas or calculations within tables.
