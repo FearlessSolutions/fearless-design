@@ -23,3 +23,28 @@
 20. Test the website or application with assistive technology to ensure accessibility.
 
 
+
+
+<h2>This is a test</h2>
+
+
+- [x] Provide text alternatives for all non-text content.
+- [x] Ensure that all content is perceivable, operable, and understandable for users with disabilities.
+- [x] Use a color contrast ratio of at least 4.5:1 for text and images of text.
+- [x] Ensure that all functionality is available from a keyboard.
+- [x] Provide sufficient time for users to read and use content.
+- [x] Do not use content that flashes more than three times per second.
+- [x] Provide clear and consistent navigation throughout the website or application.
+- [x] Ensure that all form fields have descriptive labels.
+- [x] Provide instructions and feedback for form submissions and other user interactions.
+- [x] Ensure that all page elements are organized in a logical order.
+- [x] Use headings and subheadings to structure content.
+- [x] Provide alternatives for multimedia content, such as captions and transcripts.
+- [x] Ensure that all links have descriptive and meaningful text.
+- [x] Do not use images of text unless necessary, and provide alternatives when possible.
+- [x] Ensure that all tables have row and column headers.
+- [x] Ensure that all content can be resized up to 200% without loss of content or functionality.
+- [x] Provide alternatives for time-based media, such as audio descriptions or text transcripts.
+- [x] Use plain language and avoid complex sentence structures.
+- [x] Ensure that all content is compatible with assistive technology.
+- [x] Test the website or application with assistive technology to ensure accessibility.
