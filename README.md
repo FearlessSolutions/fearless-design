@@ -4,6 +4,10 @@ Welcome to the <Company Name> Github Repository! This repository contains a coll
   
 
 ## Before you begin
+
+Some of the design resources come in the form of links. If you aren't finding what you need in the source files, check the "links" file within each folder.
+
+
 In order to maintain Fearless branding on desktop, please download our company typefaces, or <a href="https://fonts.google.com/specimen/Montserrat+Alternates">Monsterrat Alternatives</a> and <a href="https://fonts.google.com/specimen/Montserrat">Monsterrat</a> here. Or, you can pull them into your Google drive.
 
 
@@ -42,6 +46,3 @@ If you would like to contribute to this repository, please follow our [contribut
 ## License
 
 This repository is licensed under the [LICENSE](LICENSE) file. Please review the license before using any materials in this repository.
-
-<h2>Can't find what you need or want to make edits?</h2>
-<p>Some of the design resources come in the form of links. If you aren't finding what you need in the source files, check the "links" file within each folder. If you still can't find what you need, or you have something to contribute, please contact Rachel Petrucci, or place the file into the repo and create a pull request with details on the documentation and edits you have provided.
