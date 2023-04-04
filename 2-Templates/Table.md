@@ -9,10 +9,13 @@
 
 
 <h2> Here is an example of a table where participants are added </h2>
+In this example, the first column lists the names of the events, the second column lists the dates of the events, and the third column lists the number of participants signed up to attend each event.
+
+The last row of the table uses the =SUM() function to calculate the total number of participants signed up for all events. This function adds up the values in cells C2 through C4.
 
 | Name       | Date      | Number of Participants |
 | ---------- | ----------| -----------------------|
 | Event A    | 2023-05-01| 25                     |
 | Event B    | 2023-05-15| 42                     |
 | Event C    | 2023-06-01| 18                     |
-| Total      |           | =SUM(C2:C4)            |
+| Total      |           | =SUM(C18:C20)          |
