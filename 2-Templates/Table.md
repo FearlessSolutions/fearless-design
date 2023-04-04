@@ -31,4 +31,4 @@ For example, you can use a tool like Google Sheets or Excel to calculate the res
 | Total      |           | 85                     |
 
 
-In this example, the total number of participants is manually calculated and displayed in the last row of the table. You can update this number as needed when new participants sign up for the event.
+In this example (viewable in editor) the total number of participants is manually calculated and displayed in the last row of the table. You can update this number as needed when new participants sign up for the event.
