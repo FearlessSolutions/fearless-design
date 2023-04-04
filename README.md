@@ -1,12 +1,11 @@
-<h1>About This Repo</h1>
-<p>fearless-design is a place for sharing design resources and source files. Please read the information below before you begin navigating the repo.</p>
-
-<h2>Before you begin</h2>
-<p>In order to maintain Fearless branding on desktop, please download our company typefaces, or <a href="https://fonts.google.com/specimen/Montserrat+Alternates">Monsterrat Alternatives</a> and <a href="https://fonts.google.com/specimen/Montserrat">Monsterrat</a> here. Or, you can pull them into your Google drive. </p>
-
 # Fearless Github Repository
 
 Welcome to the <Company Name> Github Repository! This repository contains a collection of guides, templates, checklists, reading materials, and samples for your reference.
+  
+
+## Before you begin
+In order to maintain Fearless branding on desktop, please download our company typefaces, or <a href="https://fonts.google.com/specimen/Montserrat+Alternates">Monsterrat Alternatives</a> and <a href="https://fonts.google.com/specimen/Montserrat">Monsterrat</a> here. Or, you can pull them into your Google drive.
+
 
 ## Topics
 
