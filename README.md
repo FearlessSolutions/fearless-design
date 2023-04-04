@@ -4,7 +4,7 @@
 <h2>Before you begin</h2>
 <p>In order to maintain Fearless branding on desktop, please download our company typefaces, or <a href="https://fonts.google.com/specimen/Montserrat+Alternates">Monsterrat Alternatives</a> and <a href="https://fonts.google.com/specimen/Montserrat">Monsterrat</a> here. Or, you can pull them into your Google drive. </p>
 
-# <Company Name> Github Repository
+# Fearless Github Repository
 
 Welcome to the <Company Name> Github Repository! This repository contains a collection of guides, templates, checklists, reading materials, and samples for your reference.
 
