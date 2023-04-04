@@ -1,4 +1,4 @@
-# Fearless Github Repository
+# Fearless Design Github Repository
 
 Welcome to the <Company Name> Github Repository! This repository contains a collection of guides, templates, checklists, reading materials, and samples for your reference.
   
