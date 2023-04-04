@@ -1,50 +1,15 @@
-.container {
-	background-color: purple;
-	color: white;
-	padding: 20px;
+table {
+  border-collapse: collapse;
+  width: 100%;
 }
 
-h1 {
-	text-align: center;
-	margin-bottom: 30px;
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
 }
 
-form {
-	display: flex;
-	flex-direction: column;
-	align-items: center;
-}
-
-label {
-	margin-top: 10px;
-}
-
-input {
-	margin-bottom: 10px;
-}
-
-button {
-	margin-top: 20px;
-	background-color: white;
-	color: purple;
-	padding: 10px 20px;
-	border: none;
-	border-radius: 5px;
-	cursor: pointer;
-}
-
-button:hover {
-	background-color: purple;
-	color: white;
-}
-
-input[readonly] {
-	background-color: white;
-	color: purple;
-	padding: 5px 10px;
-	border: none;
-	border-radius: 5px;
-	font-size: 16px;
-	font-weight: bold;
-	text-align: center;
+th {
+  background-color: purple;
+  color: white;
 }
