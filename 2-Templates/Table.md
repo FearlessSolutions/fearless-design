@@ -37,6 +37,7 @@ In this example (viewable in editor) the total number of participants is manuall
 <h2> Styling Does not Work in Github Markdown</h2>
 Even if you write it up in HTML
 
+
 <table style="background-color: #e6ccff;">
   <thead>
     <tr>
