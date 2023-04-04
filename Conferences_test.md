@@ -1,0 +1,48 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2708
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red42\green49\blue64;}
+{\*\expandedcolortbl;;\cssrgb\c21569\c25490\c31765;}
+\margl1440\margr1440\vieww22840\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs21 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 | Conference Name | Date | Location | Virtual Option? | Civic Tech related? | Topic | Who are attendees | Proposal Due Date | Host | Registration Date | Price |\
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------- | --------------------------- | --------------- | ------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- | ----------------- | ---------------------------------------- |\
+| April       |   |               |   |       |       |      |       |     |     |              |\
+|              |   |               |   |       |       |              |       |     |     |              |\
+|              |   | |   |       |       |              |       |     |     |              |\
+| May          |   | |   |       |       |              |       |     |     |              |\
+| [](https://goodtechfest.com/)[Good Tech Fest](https://goodtechfest.com/) | May 1-4         | Washington D.C.             | Yes             |       |       |              |       |     |     |              |\
+| [ConveyUX](https://conveyux.com/register/)             | May 2-4         | Online        | Yes             | No    | ux design | ux researchers, product designers            |       | Blink             | Now | full conference: $495, on demand $295    |\
+| [UXDX USA 2023](https://uxdx.com/usa/2023/agenda/?gclid=CjwKCAjw5pShBhB_EiwAvmnNV7iIREdUq3PnYKiCu8S-Ubm5PYurU_Ten7DNDrrI0xasG3GnFn020hoCwSoQAvD_BwE)             | May 15-17       | New York, NY  | Yes             | No    | UX (continuous discovery, continuous design, continuous delivery) | UX professionals and those interested in UX  | Not listed, but likely closed...      | UXDX              | Today - May 15    | Variable, based on attendance needs      |\
+| [](https://summit.codeforamerica.org/)[Code for America Summit](https://summit.codeforamerica.org/)  | May 16\'9617       | Washington D.C.             | No              | Yes   | civic tech              | public servants, technologists, organizers, and civic tech enthusiasts        | Closed       | Code for America  | April 10\'96May 12   | $599.00      |\
+|              |   | |   |       |       |              |       |     |     |              |\
+|              |   | |   |       |       |              |       |     |     |              |\
+| June         |   | |   |       |       |              |       |     |     |              |\
+| [](https://events.govtech.com/Maryland-Digital-Government-Summit.html)[Maryland Digital Government Summit](https://events.govtech.com/Maryland-Digital-Government-Summit.html) | June 1          | Linthicum Heights, Maryland |   |       |       | Open to Public Sector only.    |       |     |     |              |\
+| [](https://howdesignlive.com/)[How Design Live](https://howdesignlive.com/)            | June 5-7        | Nashville, TN | No              | No    |       |              |       |     |     | $1,395       |\
+| [UXRConf 2023](https://uxrconf23.joinlearners.com/)    | June 7-9        | Online        | Yes             |       | ux research             | user researchers, ux practitioners           |       |     |     |              |\
+| [](https://uxpa2023.org/)[UXPA](https://uxpa2023.org/)     | June 21-23      | Austin, Texas | No              | No    | human-centered design, leadership, research         | Product designers, researchers               |       |     |     | $1,900       |\
+|              |   |               |   |       |       |              |       |     |     |              |\
+|              |   |               |   |       |       |              |       |     |     |              |\
+| July         |   |               |   |       |       |              |       |     |     |              |\
+| [](https://2023.hci.international/registration.html)[HCI international 2023](https://2023.hci.international/registration.html)       | July 23-28      | Online/ Copenhagen, Denmark | Yes             |       | human interaction, cross cultural design, and more  | product designers, interaction designers     |       | HCI international | Now- May 16th     | Jan 1-May 15: $795, after May 16th: $895 |\
+|              |   |               |   |       |       |              |       |     |     |              |\
+|              |   |               |   |       |       |              |       |     |     |              |\
+| August       |   |               |   |       |       |              |       |     |     |              |\
+| [](https://blackistechconference.com/)[Black is Tech Conference](https://blackistechconference.com/) | August 7-11     | Atlanta, Georgia            | Yes             | No    |       | Black tech professionals, students and entrepreneurs       |       |     |     |              |\
+|              |   |               |   |       |       |              |       |     |     |              |\
+|              |   |               |   |       |       |              |       |     |     |              |\
+| September    |   |               |   |       |       |              |       |     |     |              |\
+| [UXDG Summit](https://www.uxdgsummit.com/)             | September 6-7   | Online        | Yes             | No    |       |              |       |     |     |              |\
+| [](https://govservicedesign.net/)[Service Design in Government](https://govservicedesign.net/)       | September 20-22 | Edinburgh, Scotland         | No :(           | Yes   | civic tech, service design            | We attract participants who either manage, design or develop central and local government services, health and education services, emergency sector services, civic technologies and others including Government employees, consultants and design agencies. | Closed (March 20)       | Software Acumen (Cambridge, EN) | Today - Sept 20   | \'a3585.00<br>+\'a3117.00 VAT    |\
+|              |   |               |   |       |       |              |       |     |     |              |\
+|              |   |               |   |       |       |              |       |     |     |              |\
+| October      |   |               |   |       |       |              |       |     |     |              |\
+| [](https://www.aiga.org/design/aiga-design-conference)[AIGA Design Conference](https://www.aiga.org/design/aiga-design-conference)   | October 12\'9614   | New York      | Yes             |       |       |              |       |     |     |              |\
+|              |   |               |   |       |       |              |       |     |     |              |\
+|              |   |               |   |       |       |              |       |     |     |              |\
+| November     |   |               |   |       |       |              |       |     |     |              |\
+| [](https://experience.afrotech.com/)[AFROTECH](https://experience.afrotech.com/)       | November 1-5    | Austin, Texas | No              | No    |       |              | [](https://docs.google.com/forms/d/e/1FAIpQLSf2R79ufwjQpMPqiWcXKlLZKnQ7ZaC7odwl2Hkk9N3rJPJcwA/viewform)[https://docs.google.com/forms/d/e/1FAIpQLSf2R79ufwjQpMPqiWcXKlLZKnQ7ZaC7odwl2Hkk9N3rJPJcwA/viewform](https://docs.google.com/forms/d/e/1FAIpQLSf2R79ufwjQpMPqiWcXKlLZKnQ7ZaC7odwl2Hkk9N3rJPJcwA/viewform) |     |     |\
+}
