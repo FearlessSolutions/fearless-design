@@ -33,7 +33,7 @@
 - [ ] Ensure that all functionality is available from a keyboard.
 - [ ] Provide sufficient time for users to read and use content.
 - [ ] Do not use content that flashes more than three times per second.
-- [ ] Provide clear and consistent navigation throughout the website or application.
+- [] Provide clear and consistent navigation throughout the website or application.
 - [ ] Ensure that all form fields have descriptive labels.
 - [ ] Provide instructions and feedback for form submissions and other user interactions.
 - [ ] Ensure that all page elements are organized in a logical order.
