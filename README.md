@@ -2,6 +2,9 @@
 
 Welcome to the <Company Name> Github Repository! This repository contains a collection of guides, templates, checklists, reading materials, and samples for your reference.
   
+## Guides
+- <a href="https://docs.google.com/document/d/1AzDAVl7UuFCEsYo2MPSkjiFAdekIrNeWVIUSmKo4EF0/edit?usp=drive_link">Analytics and A/B Testing</a>
+
 
 ## Before you begin
 
