@@ -1,51 +1,15 @@
 # Fearless Design Github Repository
 
 Welcome to the <Company Name> Github Repository! This repository contains a collection of guides, templates, checklists, reading materials, and samples for your reference.
-  
+## Playbooks
+- <a href="https://drive.google.com/file/d/18sI3ydZeF7tHotKfda0uWut6DEM4L90x/view?usp=drive_link">Product Design Playbook</a>
 ## Guides
 - <a href="https://docs.google.com/document/d/1AzDAVl7UuFCEsYo2MPSkjiFAdekIrNeWVIUSmKo4EF0/edit?usp=drive_link">Analytics and A/B Testing</a>
+- <a href="https://docs.google.com/document/d/1xsM8BBBAVqLXIQh0mZbtWCIB7yNsV8Bb_53MAZPy55s/edit?usp=drive_link">Card Sorting and Tree Testing Guide</a>
+- <a href="https://docs.google.com/document/d/1caWKJeUUjLZzsIPYw1EpECCywTGy81jKd7YJUAdUmEU/edit?usp=drive_link">Content Standards Guide</a>
+- <a href="https://docs.google.com/document/d/1Q9dTsmEVOgdWqsUE9Mmd_-IVJgmHwmCsHJU-joXxtPY/edit?usp=drive_link">Design Critiques & Design Studio Guide </a>
+- <a href="https://docs.google.com/document/d/1-7DUNYsOYj4GqVJUZsWK5XWm72xvmQmm0EAznQMaNp8/edit?usp=sharing">Heuristic Evaluations</a>
+- <a href="https://docs.google.com/document/d/1J0pJotg6TCWU5VD_VnGteYZ_L_qjFN586gQnQ7KFItI/edit?usp=drive_link">Story Board Creation Guide</a>
+- <a href="https://docs.google.com/document/d/1J-1qEMBcWCJxUB1LwAvBmRrKHvt7opJ7qQbbNoMyDS8/edit?usp=drive_link">User Persona Guide</a>
 
 
-## Before you begin
-
-Some of the design resources come in the form of links. If you aren't finding what you need in the source files, check the "links" file within each folder.
-
-
-In order to maintain Fearless branding on desktop, please download our company typefaces, or <a href="https://fonts.google.com/specimen/Montserrat+Alternates">Monsterrat Alternatives</a> and <a href="https://fonts.google.com/specimen/Montserrat">Monsterrat</a> here. Or, you can pull them into your Google drive.
-
-
-## Topics
-
-- [Guides](#guides)
-- [Templates](#templates)
-- [Checklists](#checklists)
-- [Reading](#reading)
-- [Samples](#samples)
-
-### Guides
-
-The `guides` directory contains various guides that provide step-by-step instructions on how to perform specific tasks. These guides are intended to help you better understand the processes and workflows used in our organization.
-
-### Templates
-
-The `templates` directory contains templates that you can use as a starting point for various types of documents. These templates are designed to save you time and effort when creating new documents.
-
-### Checklists
-
-The `checklists` directory contains checklists that can help you ensure that you have completed all the necessary tasks for a specific process or workflow. These checklists are designed to help you stay organized and avoid overlooking any critical steps.
-
-### Reading
-
-The `reading` directory contains recommended reading materials, including articles, blog posts, and books. These resources can help you deepen your understanding of various topics related to our organization.
-
-### Samples
-
-The `samples` directory contains sample code, documents, and other materials that demonstrate best practices and provide examples of how things should be done in our organization.
-
-## Contributing
-
-If you would like to contribute to this repository, please follow our [contributing guidelines](contributing.md). We welcome contributions of all kinds, including bug reports, feature requests, documentation improvements, and markdown contributions.
-
-## License
-
-This repository is licensed under the [LICENSE](LICENSE) file. Please review the license before using any materials in this repository.
